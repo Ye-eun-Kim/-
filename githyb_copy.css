@@ -1,0 +1,30 @@
+* { background-color: #f0f0e8; }
+.masthead {
+    background-image: url('배경 이미지.png');
+    height: 300px;
+}
+.header{
+    background-color: transparent;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.masthead{
+    background-color: transparent;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+.content{
+    background-color: transparent;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.header{
+    background-color: transparent;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.header{
+    background-color: transparent;
+    margin-right: 200px;
+    margin-left: 200px;
+}
